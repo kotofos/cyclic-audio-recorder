@@ -1,3 +1,4 @@
+```
 Audio recorder with cycle buffer
 
 usage: main.py [-h] [-o OUTPUT] [-t MAX_SIZE] [-p PART_SIZE]
@@ -10,3 +11,4 @@ optional arguments:
                         Total used space. Not byte accurate
   -p PART_SIZE, --part-size PART_SIZE
                         Size to split recording. Not byte accurate
+```
